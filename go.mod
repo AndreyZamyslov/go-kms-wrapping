@@ -11,7 +11,6 @@ require (
 	github.com/Azure/go-autorest/autorest/validation v0.2.0 // indirect
 	github.com/aliyun/alibaba-cloud-sdk-go v0.0.0-20190620160927-9418d7b0cd0f
 	github.com/aws/aws-sdk-go v1.25.37
-	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/golang/protobuf v1.4.0-rc.4
 	github.com/hashicorp/go-cleanhttp v0.5.1
 	github.com/hashicorp/go-hclog v0.12.1
@@ -22,12 +21,12 @@ require (
 	github.com/oracle/oci-go-sdk v12.5.0+incompatible
 	github.com/stretchr/testify v1.5.1
 	github.com/tencentcloud/tencentcloud-sdk-go v3.0.132+incompatible
-	github.com/yandex-cloud/go-genproto v0.0.0-20200316083924-bd7a668b4f7b
-	github.com/yandex-cloud/go-sdk v0.0.0-20200316080811-d8799f303f42
+	github.com/yandex-cloud/go-genproto v0.0.0-20200706121451-bfae58471d97
+	github.com/yandex-cloud/go-sdk v0.0.0-20200707154350-763c5b940220
 	golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413
-	golang.org/x/net v0.0.0-20190813141303-74dc4d7220e7
+	golang.org/x/net v0.0.0-20200320220750-118fecf932d8
 	google.golang.org/api v0.14.0
-	google.golang.org/genproto v0.0.0-20190801165951-fa694d86fc64
-	google.golang.org/grpc v1.22.0
+	google.golang.org/genproto v0.0.0-20200323114720-3f67cca34472
+	google.golang.org/grpc v1.28.0
 	google.golang.org/protobuf v1.20.1
 )
